@@ -1,2 +1,1 @@
-# CLASS-37
-speed racer
+# C36_SpeedRacer_TeacherActivity
